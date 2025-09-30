@@ -27,5 +27,3 @@ Throughout this repo, we cover a wide range of tools and technologies:
 - **Deployment**: GitHub Pages, Heroku, Gunicorn  
 
 ---
-
-Example:
